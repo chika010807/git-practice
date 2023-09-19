@@ -1,3 +1,4 @@
 huge
 hoge
 aiueo
+kakikukeko
